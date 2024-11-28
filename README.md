@@ -1,2 +1,3 @@
 # Wastewater-Treatment-Formulation
-7 different formulations developed on ASP tank data.
+This study explores the application of machine learning techniques to assess the treatability of a functioning Effluent Treatment Plant (ETP) or Common Effluent Treatment Plant (CETP) in the paper sector. Key parameters like Decay Coefficients and Half Life Constant were predicted.
+The project involved analysing operational data, including influent and effluent biological oxygen demand, flow rates, and tank dimensions. Two modelling approaches were employed: linear regression for fitting data to theoretical models and artificial neural networks (ANNs) for direct prediction of output variables based on input parameters.
